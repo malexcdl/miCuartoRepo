@@ -1,2 +1,2 @@
 # miCuartoRepo
-Creado desde Github CLI
+Creado desde Github CLI y sincronizado con Github.
